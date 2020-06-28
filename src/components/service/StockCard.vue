@@ -79,7 +79,7 @@ export default {
 
 <style scoped>
 .v-card__title {
-  background-color: #1a237e;
+  background-color: #537597;
   color: white;
   height: 57px;
 }

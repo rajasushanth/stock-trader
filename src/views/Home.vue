@@ -35,7 +35,7 @@
 
 <style scoped>
   .v-card__title {
-    background-color: #00437b;
+    background-color: #537597;
     color: white;
     height: 55px;
   }

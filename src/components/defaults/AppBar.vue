@@ -1,9 +1,9 @@
 <template>
-  <v-app-bar color="#00437b" dense dark>
+  <v-app-bar color="#314559" dense dark>
     <v-app-bar-nav-icon @click="toggleDrawer"></v-app-bar-nav-icon>
     <v-toolbar-title>{{getAppTitle}}</v-toolbar-title>
     <v-spacer></v-spacer>
-    <v-chip pill color="#00437b">
+    <v-chip pill color="#34495E">
       Funds:
       <v-icon size="20">mdi-currency-usd</v-icon>
       {{ getFund }}

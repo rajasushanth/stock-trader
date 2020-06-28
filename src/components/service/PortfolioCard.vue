@@ -104,7 +104,7 @@
 
 <style scoped>
   .v-card__title {
-    background-color: #607D8B;
+    background-color: #537597;
     color: white;
     height: 57px;
   }
